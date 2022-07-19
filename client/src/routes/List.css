@@ -1,0 +1,9 @@
+.table {
+  padding: 50px;
+}
+
+.header {
+  color: white;
+  background-color: rgb(12, 158, 255);
+  font-weight: bold;
+}
